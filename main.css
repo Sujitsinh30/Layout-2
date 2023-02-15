@@ -40,3 +40,16 @@ img
     width: 100%;
     z-index: -1;
 }
+#our-ser-head
+{
+    max-width: 40rem;
+    display: flex;
+    justify-content: center;
+}
+#our-ser-head h3
+{
+    color: #3b5952;
+    display: flex;
+    padding: 2rem;
+    font-size: 36px;
+}
