@@ -21,11 +21,12 @@ div.container-fluid div.container
 }
 #msg-box
 {
+    margin-left: 104px;
     height: 20em;
     border-radius: 0% 0% 50% 50%;                                                        
     background-color: #497375;
     text-align: center;
-    background-color: rgba(65,101,101,255);
+    max-width: 18rem;
 }
 #msg-box p
 {
@@ -36,6 +37,6 @@ div.container-fluid div.container
 }
 img 
 {
-    width: 98%;
+    width: 100%;
     z-index: -1;
 }
