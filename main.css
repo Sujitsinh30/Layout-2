@@ -1,0 +1,35 @@
+div.container-fluid div.container
+{
+    background-color: white;
+    max-width: 1250px;
+    max-height: 10rem;
+    margin-left: 10px
+}
+.logo 
+{
+    background-color: #4e7685;
+    width: 3rem;
+    height: 3rem;
+    border-left: 10px solid #0a2f47;
+    border-top: 10px solid #0a2f47;
+}
+.logo-name 
+{
+    margin-left: 1rem;
+    margin-top: 44px;
+    font-size: 35px;
+}
+#msg-box
+{
+    height: 20em;
+    border-radius: 0% 0% 50% 50%;                                                        
+    background-color: #497375;
+    text-align: center
+}
+#msg-box p
+{
+    padding: 20px 14px;
+    font-size: 43px;
+    color: white;
+    font-weight: 900;
+}
