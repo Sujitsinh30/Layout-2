@@ -24,7 +24,8 @@ div.container-fluid div.container
     height: 20em;
     border-radius: 0% 0% 50% 50%;                                                        
     background-color: #497375;
-    text-align: center
+    text-align: center;
+    background-color: rgba(65,101,101,255);
 }
 #msg-box p
 {
@@ -32,4 +33,9 @@ div.container-fluid div.container
     font-size: 43px;
     color: white;
     font-weight: 900;
+}
+img 
+{
+    width: 98%;
+    z-index: -1;
 }
